@@ -1,2 +1,3 @@
 Hi everyone!
+changed in GitDemo
 Changed in GitDemo1
