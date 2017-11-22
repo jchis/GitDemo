@@ -1,2 +1,3 @@
+inserted line
 Hi everyone!
 changed in GitDemo
