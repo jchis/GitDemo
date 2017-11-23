@@ -1,4 +1,4 @@
-inserted line
+inserted same line from Demo1 to result in conflict
 Hi everyone!
 changed in GitDemo
 Changed in GitDemo1
